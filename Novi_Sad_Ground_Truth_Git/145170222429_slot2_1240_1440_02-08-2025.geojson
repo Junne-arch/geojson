@@ -1,0 +1,1008 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819984,
+          45.282671
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:49",
+        "Temperature": 33.0,
+        "Device": "145170222429",
+        "Time_decimal": 12.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819851,
+          45.282832
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:50",
+        "Temperature": 33.0,
+        "Device": "145170222429",
+        "Time_decimal": 12.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819848,
+          45.28276
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:51",
+        "Temperature": 32.8,
+        "Device": "145170222429",
+        "Time_decimal": 12.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820213,
+          45.282722
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:52",
+        "Temperature": 33.0,
+        "Device": "145170222429",
+        "Time_decimal": 12.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820612,
+          45.282767
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:53",
+        "Temperature": 33.1,
+        "Device": "145170222429",
+        "Time_decimal": 12.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820479,
+          45.282721
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:54",
+        "Temperature": 33.7,
+        "Device": "145170222429",
+        "Time_decimal": 12.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.822666,
+          45.283118
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:55",
+        "Temperature": 33.9,
+        "Device": "145170222429",
+        "Time_decimal": 12.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.823684,
+          45.283316
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:56",
+        "Temperature": 34.2,
+        "Device": "145170222429",
+        "Time_decimal": 12.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.824639,
+          45.283444
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:57",
+        "Temperature": 34.4,
+        "Device": "145170222429",
+        "Time_decimal": 12.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8256,
+          45.283607
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:58",
+        "Temperature": 34.8,
+        "Device": "145170222429",
+        "Time_decimal": 12.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.826478,
+          45.283896
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "12:59",
+        "Temperature": 34.9,
+        "Device": "145170222429",
+        "Time_decimal": 12.98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.827251,
+          45.283871
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:00",
+        "Temperature": 35.3,
+        "Device": "145170222429",
+        "Time_decimal": 13.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.828217,
+          45.284045
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:01",
+        "Temperature": 35.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.02
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.829187,
+          45.284206
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:02",
+        "Temperature": 35.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.03
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.830137,
+          45.284353
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:03",
+        "Temperature": 35.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.831123,
+          45.284557
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:04",
+        "Temperature": 35.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.07
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.83203,
+          45.28482
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:05",
+        "Temperature": 35.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.08
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.831719,
+          45.285501
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:06",
+        "Temperature": 35.9,
+        "Device": "145170222429",
+        "Time_decimal": 13.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.831349,
+          45.286203
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:07",
+        "Temperature": 36.7,
+        "Device": "145170222429",
+        "Time_decimal": 13.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.831019,
+          45.286845
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:08",
+        "Temperature": 37.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.83068,
+          45.287525
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:09",
+        "Temperature": 38.1,
+        "Device": "145170222429",
+        "Time_decimal": 13.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.830334,
+          45.288155
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:10",
+        "Temperature": 38.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.830039,
+          45.288822
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:11",
+        "Temperature": 38.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.829612,
+          45.289517
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:12",
+        "Temperature": 38.6,
+        "Device": "145170222429",
+        "Time_decimal": 13.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.829331,
+          45.290204
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:13",
+        "Temperature": 38.7,
+        "Device": "145170222429",
+        "Time_decimal": 13.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.822114,
+          45.282994
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:14",
+        "Temperature": 38.8,
+        "Device": "145170222429",
+        "Time_decimal": 13.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.827752,
+          45.290221
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:15",
+        "Temperature": 38.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.826804,
+          45.290119
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:16",
+        "Temperature": 37.3,
+        "Device": "145170222429",
+        "Time_decimal": 13.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.826442,
+          45.290771
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:17",
+        "Temperature": 36.8,
+        "Device": "145170222429",
+        "Time_decimal": 13.28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82608,
+          45.291462
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:18",
+        "Temperature": 37.5,
+        "Device": "145170222429",
+        "Time_decimal": 13.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.825762,
+          45.292177
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:19",
+        "Temperature": 38.2,
+        "Device": "145170222429",
+        "Time_decimal": 13.32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.824835,
+          45.292189
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:20",
+        "Temperature": 38.5,
+        "Device": "145170222429",
+        "Time_decimal": 13.33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.828323,
+          45.290385
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:21",
+        "Temperature": 37.2,
+        "Device": "145170222429",
+        "Time_decimal": 13.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.823965,
+          45.291873
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:22",
+        "Temperature": 37.2,
+        "Device": "145170222429",
+        "Time_decimal": 13.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82286,
+          45.291692
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:23",
+        "Temperature": 36.7,
+        "Device": "145170222429",
+        "Time_decimal": 13.38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.821914,
+          45.291518
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:24",
+        "Temperature": 36.2,
+        "Device": "145170222429",
+        "Time_decimal": 13.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820909,
+          45.291507
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:25",
+        "Temperature": 35.9,
+        "Device": "145170222429",
+        "Time_decimal": 13.42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820607,
+          45.290891
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:26",
+        "Temperature": 35.6,
+        "Device": "145170222429",
+        "Time_decimal": 13.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820459,
+          45.290203
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:27",
+        "Temperature": 35.3,
+        "Device": "145170222429",
+        "Time_decimal": 13.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820063,
+          45.289724
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:28",
+        "Temperature": 35.0,
+        "Device": "145170222429",
+        "Time_decimal": 13.47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819057,
+          45.289698
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:29",
+        "Temperature": 34.8,
+        "Device": "145170222429",
+        "Time_decimal": 13.48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.817986,
+          45.289773
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:30",
+        "Temperature": 34.7,
+        "Device": "145170222429",
+        "Time_decimal": 13.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.816938,
+          45.289649
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:31",
+        "Temperature": 34.5,
+        "Device": "145170222429",
+        "Time_decimal": 13.52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.815968,
+          45.289666
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:32",
+        "Temperature": 34.4,
+        "Device": "145170222429",
+        "Time_decimal": 13.53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.815658,
+          45.28897
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:33",
+        "Temperature": 34.2,
+        "Device": "145170222429",
+        "Time_decimal": 13.55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.815313,
+          45.288267
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:34",
+        "Temperature": 34.2,
+        "Device": "145170222429",
+        "Time_decimal": 13.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.815085,
+          45.287563
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:35",
+        "Temperature": 34.1,
+        "Device": "145170222429",
+        "Time_decimal": 13.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.814699,
+          45.28687
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:36",
+        "Temperature": 34.1,
+        "Device": "145170222429",
+        "Time_decimal": 13.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.814431,
+          45.286193
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:37",
+        "Temperature": 34.0,
+        "Device": "145170222429",
+        "Time_decimal": 13.62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.814716,
+          45.285676
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:38",
+        "Temperature": 33.8,
+        "Device": "145170222429",
+        "Time_decimal": 13.63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.815619,
+          45.285466
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:39",
+        "Temperature": 33.6,
+        "Device": "145170222429",
+        "Time_decimal": 13.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.816583,
+          45.285275
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:40",
+        "Temperature": 33.5,
+        "Device": "145170222429",
+        "Time_decimal": 13.67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.817571,
+          45.285143
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:41",
+        "Temperature": 33.8,
+        "Device": "145170222429",
+        "Time_decimal": 13.68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.818536,
+          45.284946
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:42",
+        "Temperature": 33.9,
+        "Device": "145170222429",
+        "Time_decimal": 13.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819501,
+          45.284782
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:43",
+        "Temperature": 34.0,
+        "Device": "145170222429",
+        "Time_decimal": 13.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819941,
+          45.284233
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:44",
+        "Temperature": 34.1,
+        "Device": "145170222429",
+        "Time_decimal": 13.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820018,
+          45.283544
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:45",
+        "Temperature": 34.1,
+        "Device": "145170222429",
+        "Time_decimal": 13.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82016,
+          45.282844
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:46",
+        "Temperature": 33.9,
+        "Device": "145170222429",
+        "Time_decimal": 13.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.824046,
+          45.291879
+        ]
+      },
+      "properties": {
+        "Date": "02-08-2025",
+        "Time": "13:47",
+        "Temperature": 34.0,
+        "Device": "145170222429",
+        "Time_decimal": 13.78
+      }
+    }
+  ]
+}
